@@ -1,0 +1,24 @@
+.root{
+    -fx-background-color: linear-gradient(#093051, #0B1D2D);
+}
+.label{
+    -fx-text-fill: #E8E8E8;
+    -fx-font-size: 14pt;
+    -fx-font-weight: bold;
+}
+.goodstatus {
+    -fx-text-fill: #40E14E;
+    -fx-font-size: 14pt;
+}
+.goodusername {
+    -fx-text-fill: #40E14E;
+    -fx-font-size: 14pt;
+}
+.badstatus {
+    -fx-text-fill: #FF0000;
+    -fx-font-size: 14pt;
+}
+.badusername {
+    -fx-text-fill: #FF0000;
+    -fx-font-size: 14pt;
+}

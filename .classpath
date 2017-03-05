@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Dropbox/Private/Programmering/Eksporterte Test Applikasjoner/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Dropbox/Private/Programmering/Eksporterte Test Applikasjoner/WMI4Java-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Dropbox/Private/Programmering/Eksporterte Test Applikasjoner/jProcesses-1.3.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Dropbox/Private/Programmering/Eksporterte Test Applikasjoner/commons-net-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Dropbox/Private/Programmering/Eksporterte Test Applikasjoner/commons-io-2.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
